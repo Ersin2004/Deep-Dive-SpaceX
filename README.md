@@ -1,8 +1,8 @@
 # Bit Operators
 
 
-x
-"logo")
+![logo](https://logos-world.net/wp-content/uploads/2020/09/SpaceX-Symbol.jpg)
+
 # SpaceX booking website
 The SpaceX Booking Website is a web application designed to facilitate ticket sales and passenger management for SpaceX spaceflights. It provides an intuitive platform for customers to explore available space destinations, book tickets, and manage their flight details.
 
