@@ -1,0 +1,11 @@
+| Rubric                  | - - | - | +/- | + | ++ |
+|-------------------------|-----|---|-----|---|----|
+| Discipline & Work Ethic |     |   |  x  |   |    |
+| Helpfulness             |     |   |  x  |   |    |
+| Asks for feedback       |     |   |     | x |    |
+| Gives feedback          |     |   |  x  |   |    |
+| Concentration/focus     |     |   |  x  |   |    |
+
+I give [10] out of 100 points to Hicham.
+
+Leuk om met Hicham te werken, maar door weinig kennis van next.js kon hij niet veel doen aan het project. Hij heeft wel zijn best gedaan om te helpen waar hij kon.

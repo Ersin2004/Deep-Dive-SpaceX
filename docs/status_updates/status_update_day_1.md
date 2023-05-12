@@ -1,0 +1,4 @@
+# Status update Day 1:
+
+Maandag
+Vandaag was een dag vol inspiratie en vooruitgang voor ons team, terwijl we werkten aan de documentatie van ons opwindende project voor SpaceX. Onze toewijding en passie voor het leveren van een geweldig product waren duidelijk zichtbaar tijdens de vergadering waar we als team onze individuele brainstormsessies deelden en samen een prachtig webdesign creëerden. Het was geweldig om te zien hoe onze ideeën naadloos in elkaar pasten en een uniek geheel vormden. We hebben onze krachten gebundeld om een gedetailleerde planning op te stellen en ervoor te zorgen dat we alle verwachtingen van onze klant overtreffen. We kijken ernaar uit om morgen te beginnen met de ontwikkeling van de website en de implementatie van de user stories, en om SpaceX een adembenemend eindproduct te kunnen presenteren.
